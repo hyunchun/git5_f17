@@ -1,0 +1,4 @@
+[alias]
+	st = staus
+	ll = log --stat --abbrev-comit
+	graph = log --graph --full-history --all --color
