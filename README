@@ -4,3 +4,7 @@ oh
 .. image:: https://travis-ci.org/hyunchun/git5_f17.svg?branch=master
     :target: https://travis-ci.org/hyunchun/git5_f17
 image:https://travis-ci.org/hyunchun/git5_f17.svg?branch=master["Build Status", link="https://travis-ci.org/hyunchun/git5_f17"]
+{<img src="https://travis-ci.org/hyunchun/git5_f17.svg?branch=master" alt="Build Status" />}[https://travis-ci.org/hyunchun/git5_f17]
+!https://travis-ci.org/hyunchun/git5_f17.svg?branch=master!:https://travis-ci.org/hyunchun/git5_f17
+[![Build Status](https://travis-ci.org/hyunchun/git5_f17.svg?branch=master)](https://travis-ci.org/hyunchun/git5_f17)
+https://travis-ci.org/hyunchun/git5_f17.svg?branch=master
