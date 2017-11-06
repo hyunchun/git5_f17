@@ -47,3 +47,6 @@ class TestBasics(unittest.TestCase):
         # test 2
         result = rpn.calculate("0 0 + 1 + 2 + 3 -")
         self.assertEqual(0, result)
+
+if __name__ == '__main__':
+    unittest.main()

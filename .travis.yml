@@ -2,6 +2,6 @@ language: python
 python: 
         - "3.5.2"
 script:
-        - coverage run -m unittest
+        - coverage run test_rpn.py
 after_success:
         - coveralls        
