@@ -1,0 +1,9 @@
+language: python
+python:
+	- "3.0"
+install:
+	- pip install -e . --use-mirrors
+script:
+	- python3 -m rpn
+after_success:
+	- coveralls
