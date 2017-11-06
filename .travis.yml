@@ -2,6 +2,6 @@ language: python
 python: 
         - "3.5.2"
 script:
-        - make test
+        - coverage run -m unittest
 after_success:
         - coveralls        
