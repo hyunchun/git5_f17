@@ -1,2 +1,6 @@
 oh
 =for html <a href="https://travis-ci.org/hyunchun/git5_f17"><img src="https://travis-ci.org/hyunchun/git5_f17.svg?branch=master"></a>
+#https://api.travis-ci.org/repos/hyunchun/git5_f17/cc.xml?branch=master\
+.. image:: https://travis-ci.org/hyunchun/git5_f17.svg?branch=master
+    :target: https://travis-ci.org/hyunchun/git5_f17
+image:https://travis-ci.org/hyunchun/git5_f17.svg?branch=master["Build Status", link="https://travis-ci.org/hyunchun/git5_f17"]
