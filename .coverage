@@ -1,6 +1,6 @@
 language: python
 python:
-	- "3.0"
+	- "3.5.2"
 install:
 	- pip install -e . --use-mirrors
 script:
