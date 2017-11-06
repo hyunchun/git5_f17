@@ -47,7 +47,3 @@ class TestBasics(unittest.TestCase):
         # test 2
         result = rpn.calculate("0 0 + 1 + 2 + 3 -")
         self.assertEqual(0, result)
-
-        # test 3
-        result = rpn.calculate("9 9 - 8 8 + 10 -")
-        self.assertEqual(6, result)
